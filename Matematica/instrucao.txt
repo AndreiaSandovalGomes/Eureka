@@ -1,0 +1,4 @@
+Crie duas funções, add e multiply. Cada uma deve tomar dois argumentos.
+A função add deve somar seus argumentos e devolver o resultado.
+A função multiply deve multiplicar seus argumentos.
+Usando somente estas duas funções, resolva este simples problema matemático: 36325 * (9824 + 777).
